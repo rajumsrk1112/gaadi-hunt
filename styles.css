@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+}
+
+.brands-logo {
+  height: 100px;
+  width: 100px;
+}
+
+ul {
+  list-style: none;
+}
+
+.brand-name {
+  font-weight: bold;
+}
